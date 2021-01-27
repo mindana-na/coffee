@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="549ca8db-113b-40ae-bcc1-629d38b9547d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-login.php" beforeDir="false" afterPath="$PROJECT_DIR$/post-login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-register.php" beforeDir="false" afterPath="$PROJECT_DIR$/post-register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +31,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thatonshopping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/posts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/posts" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -55,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1610852919983</updated>
       <workItem from="1610852921994" duration="7911000" />
+      <workItem from="1611487235677" duration="1174000" />
+      <workItem from="1611684494565" duration="20040000" />
     </task>
     <servers />
   </component>
@@ -62,9 +61,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="665" y="259" width="424" height="484" key="FileChooserDialogImpl" timestamp="1610882550092">
+    <state x="665" y="332" width="616" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611744968335">
       <screen x="0" y="27" width="1920" height="1002" />
     </state>
-    <state x="665" y="259" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1002@0.27.1920.1002" timestamp="1610882550092" />
+    <state x="665" y="332" width="616" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1002@0.27.1920.1002" timestamp="1611744968335" />
+    <state x="693" y="276" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611748072329">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state x="693" y="276" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1002@0.27.1920.1002" timestamp="1611748072329" />
+    <state x="665" y="259" width="424" height="484" key="FileChooserDialogImpl" timestamp="1611684517489">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state x="665" y="259" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1002@0.27.1920.1002" timestamp="1611684517489" />
+    <state x="755" y="452" width="399" height="149" key="NewPhpFileDialog" timestamp="1611747979938">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state x="755" y="452" width="399" height="149" key="NewPhpFileDialog/0.27.1920.1002@0.27.1920.1002" timestamp="1611747979938" />
+    <state x="624" y="240" key="run.anything.popup" timestamp="1611747991685">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state x="624" y="240" key="run.anything.popup/0.27.1920.1002@0.27.1920.1002" timestamp="1611747991685" />
   </component>
 </project>

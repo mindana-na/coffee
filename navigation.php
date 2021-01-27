@@ -30,6 +30,8 @@
 
                 }else{
                     ?>
+                    <li><a href="Dashboard.php"><i class="glyphicon glyphicon-dashboard"></i>  Dashboard</a> </li>
+
                     <li><a href="about.php"><i class="glyphicon glyphicon-info-sign"></i>  About</a></li>
 
                     <li>       </li>
